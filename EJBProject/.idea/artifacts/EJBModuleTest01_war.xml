@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="EJBModuleTest01:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/EJBModuleTest01_war</output-path>
+    <root id="archive" name="EJBModuleTest01_war.war">
+      <element id="javaee-facet-resources" facet="EJBModuleTest01/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EJBModuleTest01" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/EJBModuleTest01/web/lib/javax.ejb-api.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

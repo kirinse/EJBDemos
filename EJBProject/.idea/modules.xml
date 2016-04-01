@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EJBModuleTest01/EJBModuleTest01.iml" filepath="$PROJECT_DIR$/EJBModuleTest01/EJBModuleTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJBModuleTest02/EJBModuleTest02.iml" filepath="$PROJECT_DIR$/EJBModuleTest02/EJBModuleTest02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJBProject.iml" filepath="$PROJECT_DIR$/EJBProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EJBTestModule/EJBTestModule.iml" filepath="$PROJECT_DIR$/EJBTestModule/EJBTestModule.iml" />
+    </modules>
+  </component>
+</project>
+
